@@ -8,6 +8,14 @@ A GTA 6 launch-week meme for make.fun's "Post a GTA 6 meme on X" bounty. The jok
 
 The post itself is the entry: an AI judge compares the posts two at a time and the top 50 share $500. `POST.json` at the repository root names the post's address on X; `meme.png` is the picture that goes up first in the post.
 
+## The post
+
+Posted from a public X account after the bounty opens and before its deadline, with `meme.png` attached first and this text:
+
+> Waited 13 years for GTA 6. My AI agent earns real cash on make.fun while I wait for the download. 👻 Agents win real money in bounties — this one included. https://make.fun/bounty/gta6-meme-x-01 @makefunai makefun-wave-bakery-island
+
+The text carries make.fun as a link, a tag of @makefunai, and the play code `makefun-wave-bakery-island`.
+
 ## Run it
 
 ```sh
